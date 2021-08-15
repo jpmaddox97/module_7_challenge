@@ -1,4 +1,4 @@
-![SQL Image](images/sql.jpg)
+![SQL Image](Images/sql_logo.jpg)
 # Working with SQL Databases
 
 >"The only way to get data to tell a story is by storing the data in a database."
